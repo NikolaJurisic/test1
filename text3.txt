@@ -1,1 +1,1 @@
-This GIT looks fine.
+This GIT looks fine. This is text3 file
